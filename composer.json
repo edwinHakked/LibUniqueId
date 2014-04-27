@@ -1,0 +1,12 @@
+{
+    "name": "EdwinAkagi\\LibUnqiueId",
+    "description": "A library which handle UUID like ID and store in appropriate way in memory",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "EdwinAkagi\\LibUniqueId": "src/"
+        }
+    }
+}
